@@ -78,11 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krish-khati&theme=tokyo-night&hide_border=true" alt="krish-khati contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krish-khati&theme=tokyonight&row=1&column=7" alt="krish-khati trophies" />
+  <img src="./metrics.svg" alt="krish-khati contribution activity, achievements & languages" />
 </p>
 
 ---
