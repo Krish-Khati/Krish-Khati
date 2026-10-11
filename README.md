@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.svg" alt="krish-khati contribution activity, achievements & languages" />
+  <img src="https://github.com/Krish-Khati/Krish-Khati/blob/main/metrics.svg" alt="krish-khati contribution activity, achievements & languages" />
 </p>
 
 ---
