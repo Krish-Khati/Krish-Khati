@@ -88,8 +88,8 @@
 | Project | Description | Links |
 |---|---|---|
 | 🌐 **Portfolio Website** | My personal site showcasing AI & web projects | [Live](https://krish-portfolio-dev.vercel.app/) |
-| 🏛️ **Yojna Sathi** | A project I'm actively looking for collaborators on | *Add repo link* |
-| 🤖 **AI Voice Assistant** | My first AI build — started it all | *Add repo link* |
+| 🏛️ **Yojna Sathi** | A project I'm actively looking for collaborators on | [LIVE](https://github.com/Krish-Khati/yojana-saathi.git) |
+| 🤖 **AI Voice Assistant** | My first AI build — started it all | [LIVE](https://github.com/Krish-Khati/jarvis-ai.git) |
 
 > 💡 Tip: replace the placeholder links above with your actual repo URLs, or pin your top repos directly on your GitHub profile for an automatic "Pinned" section above this README.
 
