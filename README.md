@@ -1,98 +1,70 @@
-<h1 align="center">Hi there, I'm Krish Khati 👋</h1>
-<h3 align="center">AI Developer & Digital Marketer from India 🇮🇳</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Krish-Khati/Krish-Khati/main/assets/profile-banner.svg" alt="Krish Khati — AI, product and growth" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krish-khati&label=Profile%20views&color=0e75b6&style=flat" alt="krish-khati profile views" />
-  <img src="https://img.shields.io/github/followers/krish-khati?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://krish-portfolio-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=vercel" /></a>
-  <a href="mailto:krrishai0916@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/krish-khati"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
-</p>
+### AI Developer & Digital Marketer · India 🇮🇳
 
----
+I build practical AI experiences and digital products, with a special interest in voice-first tools, multilingual interfaces, and thoughtful growth.
 
-### 👨‍💻 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-101827?style=for-the-badge&logo=vercel&logoColor=white)](https://krish-portfolio-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-khati)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krrishai0916@gmail.com)
 
-- 🔭 I'm currently working on my **[Portfolio Website](https://krish-portfolio-dev.vercel.app/)**
-- 🌱 I'm currently learning **Advanced AI/ML, LangChain, System Design**
-- 👯 I'm looking to collaborate on **Yojna Sathi**
-- 🤝 I'm looking for help with **Scaling AI-powered applications**
-- 💬 Ask me about **AI, Python, SEO/SEM, Web Development**
-- 📫 Reach me at **krrishai0916@gmail.com**
-- ⚡ Fun fact: **I built my first AI voice assistant right after finishing school**
+</div>
 
 ---
 
-### 🌐 Connect with Me
+## A little about me
 
-<p align="left">
-<a href="https://dev.to/krish-khati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krish-khati" height="30" width="40" /></a>
-<a href="https://twitter.com/krish_khati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krish_khati" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krish-khati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish-khati" height="30" width="40" /></a>
-<a href="https://fb.com/krish khati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krish khati" height="30" width="40" /></a>
-<a href="https://instagram.com/krish_khati_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krish_khati_" height="30" width="40" /></a>
-<a href="https://dribbble.com/krishai0916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="krishai0916" height="30" width="40" /></a>
-<a href="https://www.behance.net/krishkhati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="krishkhati" height="30" width="40" /></a>
-<a href="https://medium.com/@krish-khati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@krish-khati" height="30" width="40" /></a>
-</p>
+- I enjoy turning useful ideas into AI tools and polished web experiences.
+- I work across AI development, Python, web development, and SEO / digital growth.
+- I’m especially interested in products that feel natural in Hindi, Hinglish, and English.
+- Always happy to meet people who like building useful things.
 
----
+## Things I’ve been building
 
-### 🛠️ Languages and Tools
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/Krish-Khati/jarvis-ai">JARVIS</a></h3>
+      <p>A Hinglish voice assistant with AI conversations, tools, memory, and vision.</p>
+      <sub>Python · Gemini · Groq</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🇮🇳 <a href="https://github.com/Krish-Khati/yojana-saathi">Yojana Saathi</a></h3>
+      <p>Helps people in India discover government schemes they may be eligible for, in Hindi, Hinglish, or English.</p>
+      <sub>AI · Multilingual · Voice</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/Krish-Khati/NovaChat">NovaChat</a></h3>
+      <p>An AI chat experience with web-grounded answers and voice conversations.</p>
+      <sub>Next.js · TypeScript</sub>
+      <p><a href="https://nova-chat-blue.vercel.app">Live demo ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏋️ <a href="https://github.com/Krish-Khati/FITNESS_TEMPLE">Fitness Temple</a></h3>
+      <p>A fast, SEO-ready website for a gym, classes, and personal coaching.</p>
+      <sub>TypeScript · Web · SEO</sub>
+      <p><a href="https://fitness-temple-git-main-kisshu1.vercel.app/">Live demo ↗</a></p>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
-</p>
+## What I work with
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=krish-khati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-khati&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish-khati&theme=tokyonight" alt="krish-khati streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Krish-Khati/Krish-Khati/blob/main/metrics.svg" alt="krish-khati contribution activity, achievements & languages" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=next.js&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20%26%20LLMs-7357D9?style=flat-square)
+![SEO](https://img.shields.io/badge/SEO%20%26%20Growth-16866F?style=flat-square)
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Links |
-|---|---|---|
-| 🌐 **Portfolio Website** | My personal site showcasing AI & web projects | [Live](https://krish-portfolio-dev.vercel.app/) |
-| 🏛️ **Yojna Sathi** | A project I'm actively looking for collaborators on | [LIVE](https://github.com/Krish-Khati/yojana-saathi.git) |
-| 🤖 **AI Voice Assistant** | My first AI build — started it all | [LIVE](https://github.com/Krish-Khati/jarvis-ai.git) |
-
-> 💡 Tip: replace the placeholder links above with your actual repo URLs, or pin your top repos directly on your GitHub profile for an automatic "Pinned" section above this README.
-
----
-
-<p align="center"><i>Thanks for stopping by — let's build something great together! 🚀</i></p>
+<div align="center">
+  <sub>Thanks for stopping by. Have an idea? <a href="mailto:krrishai0916@gmail.com">Let’s build something useful.</a></sub>
+</div>
