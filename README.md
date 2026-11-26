@@ -1,70 +1,77 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Krish-Khati/Krish-Khati/main/assets/profile-banner.svg" alt="Krish Khati — AI, product and growth" width="100%" />
-</div>
+  <img src="https://raw.githubusercontent.com/Krish-Khati/Krish-Khati/main/assets/profile-banner.svg" width="100%" alt="Krish Khati — digital growth × AI" />
 
-<div align="center">
+### Digital Marketer in India · AI Builder
 
-### AI Developer & Digital Marketer · India 🇮🇳
+**Growth strategy, SEO, content, and practical AI products.**
 
-I build practical AI experiences and digital products, with a special interest in voice-first tools, multilingual interfaces, and thoughtful growth.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-101827?style=for-the-badge&logo=vercel&logoColor=white)](https://krish-portfolio-dev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-khati)
-[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krrishai0916@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-CE334B?style=for-the-badge&logo=vercel&logoColor=white)](https://krish-portfolio-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-292126?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-khati)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-follow-292126?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/krish_khati_)
+[![Email](https://img.shields.io/badge/EMAIL-say%20hello-292126?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krrishai0916@gmail.com)
 </div>
 
 ---
 
-## A little about me
+## What I do
 
-- I enjoy turning useful ideas into AI tools and polished web experiences.
-- I work across AI development, Python, web development, and SEO / digital growth.
-- I’m especially interested in products that feel natural in Hindi, Hinglish, and English.
-- Always happy to meet people who like building useful things.
+- **Digital growth:** SEO, content strategy, and marketing ideas built around real goals.
+- **AI products:** assistants and automations that make everyday tasks easier.
+- **Web experiences:** clear, fast websites that connect the product with its audience.
 
-## Things I’ve been building
+## Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/Krish-Khati/jarvis-ai">JARVIS</a></h3>
-      <p>A Hinglish voice assistant with AI conversations, tools, memory, and vision.</p>
-      <sub>Python · Gemini · Groq</sub>
+      <a href="https://github.com/Krish-Khati/jarvis-ai"><img src="https://raw.githubusercontent.com/Krish-Khati/Krish-Khati/main/assets/work-jarvis.svg" alt="JARVIS — Hinglish voice AI" width="100%" /></a>
+      <p><b>JARVIS · Voice AI</b><br/>A Hinglish voice assistant with tools, memory, and vision.<br/><a href="https://github.com/Krish-Khati/jarvis-ai">View project ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🇮🇳 <a href="https://github.com/Krish-Khati/yojana-saathi">Yojana Saathi</a></h3>
-      <p>Helps people in India discover government schemes they may be eligible for, in Hindi, Hinglish, or English.</p>
-      <sub>AI · Multilingual · Voice</sub>
+      <a href="https://github.com/Krish-Khati/yojana-saathi"><img src="https://raw.githubusercontent.com/Krish-Khati/Krish-Khati/main/assets/work-yojana.svg" alt="Yojana Saathi — multilingual civic AI" width="100%" /></a>
+      <p><b>Yojana Saathi · Civic AI</b><br/>Helps people find government schemes in Hindi, Hinglish, and English.<br/><a href="https://github.com/Krish-Khati/yojana-saathi">View project ↗</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/Krish-Khati/NovaChat">NovaChat</a></h3>
-      <p>An AI chat experience with web-grounded answers and voice conversations.</p>
-      <sub>Next.js · TypeScript</sub>
-      <p><a href="https://nova-chat-blue.vercel.app">Live demo ↗</a></p>
+      <a href="https://nova-chat-blue.vercel.app"><img src="https://raw.githubusercontent.com/Krish-Khati/Krish-Khati/main/assets/work-nova.svg" alt="NovaChat — AI chat app" width="100%" /></a>
+      <p><b>NovaChat · AI Chat</b><br/>Web-grounded answers and voice conversations.<br/><a href="https://nova-chat-blue.vercel.app">Live demo ↗</a> · <a href="https://github.com/Krish-Khati/NovaChat">Source ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏋️ <a href="https://github.com/Krish-Khati/FITNESS_TEMPLE">Fitness Temple</a></h3>
-      <p>A fast, SEO-ready website for a gym, classes, and personal coaching.</p>
-      <sub>TypeScript · Web · SEO</sub>
-      <p><a href="https://fitness-temple-git-main-kisshu1.vercel.app/">Live demo ↗</a></p>
+      <a href="https://github.com/Krish-Khati/zedking-messenger-bot"><img src="https://raw.githubusercontent.com/Krish-Khati/Krish-Khati/main/assets/work-zedking.svg" alt="Zedking Messenger Bot — AI automation" width="100%" /></a>
+      <p><b>Zedking Assistant · Automation</b><br/>A bilingual Messenger bot grounded in real institute information.<br/><a href="https://github.com/Krish-Khati/zedking-messenger-bot">View project ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://fitness-temple-git-main-kisshu1.vercel.app/"><img src="https://raw.githubusercontent.com/Krish-Khati/Krish-Khati/main/assets/work-fitness.svg" alt="Fitness Temple — gym website" width="100%" /></a>
+      <p><b>Fitness Temple · Web &amp; SEO</b><br/>A fast website for gym training, classes, and coaching.<br/><a href="https://fitness-temple-git-main-kisshu1.vercel.app/">Live demo ↗</a> · <a href="https://github.com/Krish-Khati/FITNESS_TEMPLE">Source ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://krish-portfolio-dev.vercel.app/"><img src="https://raw.githubusercontent.com/Krish-Khati/Krish-Khati/main/assets/work-portfolio.svg" alt="Krish Khati portfolio" width="100%" /></a>
+      <p><b>My Portfolio · Digital home</b><br/>A home for my projects, experiments, and work.<br/><a href="https://krish-portfolio-dev.vercel.app/">Visit site ↗</a></p>
     </td>
   </tr>
 </table>
 
-## What I work with
+## My toolkit
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=next.js&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20%26%20LLMs-7357D9?style=flat-square)
-![SEO](https://img.shields.io/badge/SEO%20%26%20Growth-16866F?style=flat-square)
+| Focus | Tools &amp; skills |
+|:--|:--|
+| **Growth** | SEO · SEM · Content · Digital strategy |
+| **AI** | Python · Gemini · Groq · AI assistants |
+| **Web** | TypeScript · JavaScript · Next.js |
+
+## A few things I enjoy
+
+`AI that feels useful` &nbsp; `Hindi & Hinglish products` &nbsp; `Ideas that grow`
 
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by. Have an idea? <a href="mailto:krrishai0916@gmail.com">Let’s build something useful.</a></sub>
+
+**Have a good idea? Let’s make it useful.**
+
+[Portfolio](https://krish-portfolio-dev.vercel.app/) · [LinkedIn](https://linkedin.com/in/krish-khati) · [Email me](mailto:krrishai0916@gmail.com)
+
 </div>

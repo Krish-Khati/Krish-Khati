@@ -1,36 +1,21 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="86" y1="14" x2="1117" y2="378" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#101827"/>
-      <stop offset="1" stop-color="#172C32"/>
-    </linearGradient>
-    <linearGradient id="glow" x1="815" y1="68" x2="1122" y2="295" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#79E0C0" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#75A8FF" stop-opacity=".75"/>
-    </linearGradient>
-    <radialGradient id="haze" cx="0" cy="0" r="1" gradientTransform="matrix(-405 166 -105 -256 1048 100)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#67D9B6" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#67D9B6" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bg" x1="75" y1="16" x2="1133" y2="339" gradientUnits="userSpaceOnUse"><stop stop-color="#100D11"/><stop offset=".55" stop-color="#1B0C11"/><stop offset="1" stop-color="#300B13"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(-366 148 -112 -277 1060 117)" gradientUnits="userSpaceOnUse"><stop stop-color="#E3314D" stop-opacity=".35"/><stop offset="1" stop-color="#E3314D" stop-opacity="0"/></radialGradient>
+    <linearGradient id="line" x1="797" y1="89" x2="1101" y2="253" gradientUnits="userSpaceOnUse"><stop stop-color="#FF7180"/><stop offset="1" stop-color="#B81434"/></linearGradient>
   </defs>
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#haze)"/>
-  <circle cx="1018" cy="174" r="117" stroke="url(#glow)" stroke-opacity=".6" stroke-width="1.5"/>
-  <circle cx="1018" cy="174" r="87" stroke="#C9F5E9" stroke-opacity=".26" stroke-width="1" stroke-dasharray="4 8"/>
-  <circle cx="1018" cy="174" r="55" fill="#1E3840" stroke="url(#glow)" stroke-width="1.5"/>
-  <path d="M995 179V169L1018 156L1041 169V179L1018 192L995 179Z" stroke="#C6F7E8" stroke-width="2" stroke-linejoin="round"/>
-  <path d="M1002 171.5L1018 180.5L1034 171.5M1018 180.5V192" stroke="#C6F7E8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="904" cy="83" r="4" fill="#9BEBD4"/>
-  <circle cx="1128" cy="110" r="3" fill="#91B9FF"/>
-  <circle cx="1102" cy="273" r="5" fill="#9BEBD4" fill-opacity=".72"/>
-  <path d="M849 79L862 92M862 79L849 92" stroke="#B4C5DA" stroke-opacity=".65" stroke-width="1.5" stroke-linecap="round"/>
-  <path d="M1119 237L1129 247M1129 237L1119 247" stroke="#B4C5DA" stroke-opacity=".5" stroke-width="1.5" stroke-linecap="round"/>
-  <rect x="74" y="71" width="177" height="29" rx="14.5" fill="#20383B" stroke="#42675F"/>
-  <circle cx="93" cy="85.5" r="4" fill="#79E0C0"/>
-  <text x="106" y="90" fill="#B9EBDD" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.35">AI  ·  PRODUCT  ·  GROWTH</text>
-  <text x="72" y="166" fill="#F3F6FA" font-family="Segoe UI, Arial, sans-serif" font-size="53" font-weight="700" letter-spacing="-1.7">Krish Khati</text>
-  <text x="76" y="207" fill="#B8C7D8" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400">Building useful AI experiences &amp; digital products</text>
-  <path d="M76 245H390" stroke="#334956" stroke-width="1"/>
-  <text x="76" y="278" fill="#A3B5C5" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing=".2">Voice AI  ·  Multilingual tools  ·  Web experiences</text>
-  <text x="76" y="321" fill="#75918F" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="1.5">INDIA  /  OPEN TO BUILDING TOGETHER</text>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/><rect width="1200" height="340" rx="24" fill="url(#glow)"/>
+  <path d="M0 281C181 259 280 313 426 283C567 254 658 275 803 230C949 184 1065 209 1200 162" stroke="#6D1C2A" stroke-opacity=".3"/>
+  <rect x="72" y="57" width="204" height="28" rx="14" fill="#2B131A" stroke="#74303D"/>
+  <circle cx="91" cy="71" r="4" fill="#FF596D"/><text x="105" y="75" fill="#F0ABB2" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4">DIGITAL GROWTH  /  AI</text>
+  <text x="70" y="158" fill="#FFF7F7" font-family="Segoe UI,Arial,sans-serif" font-size="53" font-weight="700" letter-spacing="-1.8">Krish Khati</text>
+  <text x="74" y="198" fill="#D8C6CA" font-family="Segoe UI,Arial,sans-serif" font-size="20">Digital marketer building useful AI experiences</text>
+  <path d="M75 226H520" stroke="#4D252D"/>
+  <text x="75" y="257" fill="#BDAEB2" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing=".2">SEO  ·  Content  ·  Growth strategy  ·  AI tools</text>
+  <text x="75" y="301" fill="#8F737A" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="1.6">INDIA  /  OPEN TO IDEAS &amp; COLLABORATIONS</text>
+  <circle cx="974" cy="170" r="111" stroke="#B73449" stroke-opacity=".34"/><circle cx="974" cy="170" r="82" stroke="#E84A60" stroke-opacity=".35" stroke-dasharray="3 8"/>
+  <path d="M818 223L857 199L895 208L933 159L975 171L1024 124L1078 137L1126 95" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="933" cy="159" r="5" fill="#FF7584"/><circle cx="1024" cy="124" r="5" fill="#FF7584"/><circle cx="1126" cy="95" r="6" fill="#FF7584"/>
+  <rect x="897" y="153" width="154" height="52" rx="12" fill="#160E12" stroke="#74303D"/><text x="919" y="176" fill="#F9ECEE" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1.3">MARKETING</text><text x="960" y="194" fill="#E34C61" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.4">× AI</text>
+  <circle cx="858" cy="108" r="3" fill="#FF687A"/><circle cx="1099" cy="251" r="4" fill="#C34A5A"/><path d="M1106 192L1114 200M1114 192L1106 200" stroke="#C86B76" stroke-width="1.5" stroke-linecap="round"/>
 </svg>
